@@ -13,6 +13,7 @@
     "axios": "^0.18.0",
     "bulma": "^0.7.2",
     "chartist": "^0.10.1",
+    "moment": "^2.23.0",
     "v-chartist": "^0.1.6",
     "vue": "^2.5.11",
     "vue-chartist": "^2.2.0",

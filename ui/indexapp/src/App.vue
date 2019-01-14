@@ -14,7 +14,7 @@
 <script>
 
 import Axios from 'axios';
-
+import Moment from 'moment';
 
 export default {
     data () {
@@ -42,7 +42,7 @@ export default {
                 return;
             }
             sampleData.forEach((element, index) => {
-                periods.push(index);
+                periods.push(Moment(element.Period).format('MMM').substr(0,1));
             });
             if (this.seriesData.bseData) {
                 series = [];
