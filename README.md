@@ -17,4 +17,4 @@ The data is already loaded to DB. In order to remove data, fetch data, setup dat
 
 1. Remove Data - http://localhost:3000/api/removeData
 2. Fetch Data - http://localhost:3000/api/fetchData
-3. Setup Data - http://localhost:3000/api/fetchData
+3. Setup Data - http://localhost:3000/api/setupData
