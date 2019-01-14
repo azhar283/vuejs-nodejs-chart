@@ -1,0 +1,7 @@
+{
+    "database": {
+        "uname": "test",
+        "pwd" : "test123",
+        "path": "ds255754.mlab.com:55754/azhartest"
+    }
+}

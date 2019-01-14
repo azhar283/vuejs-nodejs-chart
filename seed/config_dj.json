@@ -1,0 +1,506 @@
+[
+  {
+    "Date": "12/1/2013",
+    "Open": 16087,
+    "High": 16588,
+    "Low": 15704,
+    "Close": 16577,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "1/1/2014",
+    "Open": 16572,
+    "High": 16573,
+    "Low": 15618,
+    "Close": 15699,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "2/1/2014",
+    "Open": 15698,
+    "High": 16399,
+    "Low": 15341,
+    "Close": 16322,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "3/1/2014",
+    "Open": 16322,
+    "High": 16506,
+    "Low": 16047,
+    "Close": 16458,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "4/1/2014",
+    "Open": 16458,
+    "High": 16632,
+    "Low": 16015,
+    "Close": 16581,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "5/1/2014",
+    "Open": 16580,
+    "High": 16736,
+    "Low": 16341,
+    "Close": 16717,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "6/1/2014",
+    "Open": 16717,
+    "High": 16978,
+    "Low": 16674,
+    "Close": 16827,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "7/1/2014",
+    "Open": 16829,
+    "High": 17152,
+    "Low": 16563,
+    "Close": 16563,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "8/1/2014",
+    "Open": 16562,
+    "High": 17154,
+    "Low": 16334,
+    "Close": 17098,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "9/1/2014",
+    "Open": 17097,
+    "High": 17351,
+    "Low": 16934,
+    "Close": 17043,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "10/1/2014",
+    "Open": 17040,
+    "High": 17396,
+    "Low": 15855,
+    "Close": 17391,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "11/1/2014",
+    "Open": 17391,
+    "High": 17895,
+    "Low": 17278,
+    "Close": 17828,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "12/1/2014",
+    "Open": 17827,
+    "High": 18103,
+    "Low": 17068,
+    "Close": 17823,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "1/1/2015",
+    "Open": 17823,
+    "High": 17952,
+    "Low": 17136,
+    "Close": 17165,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "2/1/2015",
+    "Open": 17170,
+    "High": 18244,
+    "Low": 17038,
+    "Close": 18133,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "3/1/2015",
+    "Open": 18134,
+    "High": 18289,
+    "Low": 17579,
+    "Close": 17776,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "4/1/2015",
+    "Open": 17779,
+    "High": 18176,
+    "Low": 17585,
+    "Close": 17841,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "5/1/2015",
+    "Open": 17859,
+    "High": 18351,
+    "Low": 17733,
+    "Close": 18011,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "6/1/2015",
+    "Open": 18018,
+    "High": 18189,
+    "Low": 17577,
+    "Close": 17620,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "7/1/2015",
+    "Open": 17638,
+    "High": 18137,
+    "Low": 17399,
+    "Close": 17690,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "8/1/2015",
+    "Open": 17697,
+    "High": 17705,
+    "Low": 15370,
+    "Close": 16528,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "9/1/2015",
+    "Open": 16528,
+    "High": 16933,
+    "Low": 15942,
+    "Close": 16285,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "10/1/2015",
+    "Open": 16279,
+    "High": 17800,
+    "Low": 16014,
+    "Close": 17664,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "11/1/2015",
+    "Open": 17673,
+    "High": 17978,
+    "Low": 17210,
+    "Close": 17720,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "12/1/2015",
+    "Open": 17720,
+    "High": 17902,
+    "Low": 17117,
+    "Close": 17425,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "1/1/2016",
+    "Open": 17405,
+    "High": 17405,
+    "Low": 15451,
+    "Close": 16466,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "2/1/2016",
+    "Open": 16454,
+    "High": 16796,
+    "Low": 15503,
+    "Close": 16517,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "3/1/2016",
+    "Open": 16546,
+    "High": 17790,
+    "Low": 16546,
+    "Close": 17685,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "4/1/2016",
+    "Open": 17662,
+    "High": 18168,
+    "Low": 17484,
+    "Close": 17774,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "5/1/2016",
+    "Open": 17784,
+    "High": 17935,
+    "Low": 17331,
+    "Close": 17787,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "6/1/2016",
+    "Open": 17755,
+    "High": 18016,
+    "Low": 17063,
+    "Close": 17930,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "7/1/2016",
+    "Open": 17924,
+    "High": 18622,
+    "Low": 17713,
+    "Close": 18432,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "8/1/2016",
+    "Open": 18435,
+    "High": 18723,
+    "Low": 18248,
+    "Close": 18401,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "9/1/2016",
+    "Open": 18397,
+    "High": 18552,
+    "Low": 17992,
+    "Close": 18308,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "10/1/2016",
+    "Open": 18280,
+    "High": 18400,
+    "Low": 17960,
+    "Close": 18142,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "11/1/2016",
+    "Open": 18158,
+    "High": 19225,
+    "Low": 17884,
+    "Close": 19124,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "12/1/2016",
+    "Open": 19149,
+    "High": 19988,
+    "Low": 19139,
+    "Close": 19763,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "1/1/2017",
+    "Open": 19873,
+    "High": 20126,
+    "Low": 19678,
+    "Close": 19864,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "2/1/2017",
+    "Open": 19924,
+    "High": 20851,
+    "Low": 19831,
+    "Close": 20812,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "3/1/2017",
+    "Open": 20957,
+    "High": 21169,
+    "Low": 20413,
+    "Close": 20663,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "4/1/2017",
+    "Open": 20665,
+    "High": 21071,
+    "Low": 20380,
+    "Close": 20941,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "5/1/2017",
+    "Open": 20963,
+    "High": 21112,
+    "Low": 20553,
+    "Close": 21009,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "6/1/2017",
+    "Open": 21031,
+    "High": 21535,
+    "Low": 20994,
+    "Close": 21350,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "7/1/2017",
+    "Open": 21392,
+    "High": 21930,
+    "Low": 21279,
+    "Close": 21891,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "8/1/2017",
+    "Open": 21961,
+    "High": 22179,
+    "Low": 21600,
+    "Close": 21948,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "9/1/2017",
+    "Open": 21982,
+    "High": 22420,
+    "Low": 21710,
+    "Close": 22405,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "10/1/2017",
+    "Open": 22423,
+    "High": 23485,
+    "Low": 22416,
+    "Close": 23377,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "11/1/2017",
+    "Open": 23443,
+    "High": 24328,
+    "Low": 23243,
+    "Close": 24272,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "12/1/2017",
+    "Open": 24305,
+    "High": 24876,
+    "Low": 23922,
+    "Close": 24719,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "1/1/2018",
+    "Open": 24809,
+    "High": 26617,
+    "Low": 24742,
+    "Close": 26149,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "2/1/2018",
+    "Open": 26083,
+    "High": 26307,
+    "Low": 23360,
+    "Close": 25029,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "3/1/2018",
+    "Open": 25024,
+    "High": 25449,
+    "Low": 23509,
+    "Close": 24103,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "4/1/2018",
+    "Open": 24077,
+    "High": 24859,
+    "Low": 23345,
+    "Close": 24163,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "5/1/2018",
+    "Open": 24117,
+    "High": 25086,
+    "Low": 23531,
+    "Close": 24416,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "6/1/2018",
+    "Open": 24542,
+    "High": 25403,
+    "Low": 23997,
+    "Close": 24271,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "7/1/2018",
+    "Open": 24162,
+    "High": 25587,
+    "Low": 24078,
+    "Close": 25415,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "8/1/2018",
+    "Open": 25462,
+    "High": 26168,
+    "Low": 24966,
+    "Close": 25965,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "9/1/2018",
+    "Open": 25916,
+    "High": 26769,
+    "Low": 25754,
+    "Close": 26458,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "10/1/2018",
+    "Open": 26598,
+    "High": 26952,
+    "Low": 24122,
+    "Close": 25116,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "11/1/2018",
+    "Open": 25142,
+    "High": 26278,
+    "Low": 24269,
+    "Close": 25538,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "12/1/2018",
+    "Open": 25780,
+    "High": 25980,
+    "Low": 21713,
+    "Close": 23327,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "1/1/2019",
+    "Open": 23059,
+    "High": 24015,
+    "Low": 22638,
+    "Close": 23996,
+    "Index": "DJIA"
+  },
+  {
+    "Date": "1/11/2019",
+    "Open": 23940,
+    "High": 23996,
+    "Low": 23798,
+    "Close": 23996,
+    "Index": "DJIA"
+  }
+]

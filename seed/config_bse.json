@@ -1,0 +1,498 @@
+[
+    {
+      "Period": "12/1/2013",
+      "Open": 20771,
+      "High": 21484,
+      "Low": 20569,
+      "Close": 21171,
+      "Index": "BSE"
+    },
+    {
+      "Period": "1/1/2014",
+      "Open": 21222,
+      "High": 21410,
+      "Low": 20344,
+      "Close": 20514,
+      "Index": "BSE"
+    },
+    {
+      "Period": "2/1/2014",
+      "Open": 20479,
+      "High": 21141,
+      "Low": 19963,
+      "Close": 21120,
+      "Index": "BSE"
+    },
+    {
+      "Period": "3/1/2014",
+      "Open": 21079,
+      "High": 22467,
+      "Low": 20921,
+      "Close": 22386,
+      "Index": "BSE"
+    },
+    {
+      "Period": "4/1/2014",
+      "Open": 22455,
+      "High": 22939,
+      "Low": 22198,
+      "Close": 22418,
+      "Index": "BSE"
+    },
+    {
+      "Period": "5/1/2014",
+      "Open": 22494,
+      "High": 25376,
+      "Low": 22277,
+      "Close": 24217,
+      "Index": "BSE"
+    },
+    {
+      "Period": "6/1/2014",
+      "Open": 24369,
+      "High": 25725,
+      "Low": 24270,
+      "Close": 25414,
+      "Index": "BSE"
+    },
+    {
+      "Period": "7/1/2014",
+      "Open": 25470,
+      "High": 26300,
+      "Low": 24892,
+      "Close": 25895,
+      "Index": "BSE"
+    },
+    {
+      "Period": "8/1/2014",
+      "Open": 25754,
+      "High": 26674,
+      "Low": 25233,
+      "Close": 26638,
+      "Index": "BSE"
+    },
+    {
+      "Period": "9/1/2014",
+      "Open": 26733,
+      "High": 27355,
+      "Low": 26220,
+      "Close": 26631,
+      "Index": "BSE"
+    },
+    {
+      "Period": "10/1/2014",
+      "Open": 26681,
+      "High": 27894,
+      "Low": 25911,
+      "Close": 27866,
+      "Index": "BSE"
+    },
+    {
+      "Period": "11/1/2014",
+      "Open": 27943,
+      "High": 28822,
+      "Low": 27740,
+      "Close": 28694,
+      "Index": "BSE"
+    },
+    {
+      "Period": "12/1/2014",
+      "Open": 28748,
+      "High": 28810,
+      "Low": 26469,
+      "Close": 27499,
+      "Index": "BSE"
+    },
+    {
+      "Period": "1/1/2015",
+      "Open": 27486,
+      "High": 29844,
+      "Low": 26776,
+      "Close": 29183,
+      "Index": "BSE"
+    },
+    {
+      "Period": "2/1/2015",
+      "Open": 29144,
+      "High": 29560,
+      "Low": 28044,
+      "Close": 29362,
+      "Index": "BSE"
+    },
+    {
+      "Period": "3/1/2015",
+      "Open": 29533,
+      "High": 30025,
+      "Low": 27248,
+      "Close": 27957,
+      "Index": "BSE"
+    },
+    {
+      "Period": "4/1/2015",
+      "Open": 27955,
+      "High": 29095,
+      "Low": 26898,
+      "Close": 27011,
+      "Index": "BSE"
+    },
+    {
+      "Period": "5/1/2015",
+      "Open": 27205,
+      "High": 28071,
+      "Low": 26424,
+      "Close": 27828,
+      "Index": "BSE"
+    },
+    {
+      "Period": "6/1/2015",
+      "Open": 27771,
+      "High": 27969,
+      "Low": 26307,
+      "Close": 27781,
+      "Index": "BSE"
+    },
+    {
+      "Period": "7/1/2015",
+      "Open": 27824,
+      "High": 28578,
+      "Low": 27416,
+      "Close": 28115,
+      "Index": "BSE"
+    },
+    {
+      "Period": "8/1/2015",
+      "Open": 28089,
+      "High": 28418,
+      "Low": 25298,
+      "Close": 26283,
+      "Index": "BSE"
+    },
+    {
+      "Period": "9/1/2015",
+      "Open": 26127,
+      "High": 26472,
+      "Low": 24834,
+      "Close": 26155,
+      "Index": "BSE"
+    },
+    {
+      "Period": "10/1/2015",
+      "Open": 26344,
+      "High": 27618,
+      "Low": 26169,
+      "Close": 26657,
+      "Index": "BSE"
+    },
+    {
+      "Period": "11/1/2015",
+      "Open": 26642,
+      "High": 26824,
+      "Low": 25451,
+      "Close": 26146,
+      "Index": "BSE"
+    },
+    {
+      "Period": "12/1/2015",
+      "Open": 26201,
+      "High": 26256,
+      "Low": 24868,
+      "Close": 26118,
+      "Index": "BSE"
+    },
+    {
+      "Period": "1/1/2016",
+      "Open": 26102,
+      "High": 26197,
+      "Low": 23840,
+      "Close": 24871,
+      "Index": "BSE"
+    },
+    {
+      "Period": "2/1/2016",
+      "Open": 24982,
+      "High": 25002,
+      "Low": 22495,
+      "Close": 23002,
+      "Index": "BSE"
+    },
+    {
+      "Period": "3/1/2016",
+      "Open": 23153,
+      "High": 25480,
+      "Low": 23133,
+      "Close": 25342,
+      "Index": "BSE"
+    },
+    {
+      "Period": "4/1/2016",
+      "Open": 25302,
+      "High": 26101,
+      "Low": 24523,
+      "Close": 25607,
+      "Index": "BSE"
+    },
+    {
+      "Period": "5/1/2016",
+      "Open": 25565,
+      "High": 26837,
+      "Low": 25058,
+      "Close": 26668,
+      "Index": "BSE"
+    },
+    {
+      "Period": "6/1/2016",
+      "Open": 26684,
+      "High": 27105,
+      "Low": 25911,
+      "Close": 27000,
+      "Index": "BSE"
+    },
+    {
+      "Period": "7/1/2016",
+      "Open": 27064,
+      "High": 28240,
+      "Low": 27034,
+      "Close": 28052,
+      "Index": "BSE"
+    },
+    {
+      "Period": "8/1/2016",
+      "Open": 28083,
+      "High": 28532,
+      "Low": 27628,
+      "Close": 28452,
+      "Index": "BSE"
+    },
+    {
+      "Period": "9/1/2016",
+      "Open": 28459,
+      "High": 29077,
+      "Low": 27717,
+      "Close": 27866,
+      "Index": "BSE"
+    },
+    {
+      "Period": "10/1/2016",
+      "Open": 27997,
+      "High": 28478,
+      "Low": 27488,
+      "Close": 27930,
+      "Index": "BSE"
+    },
+    {
+      "Period": "11/1/2016",
+      "Open": 27966,
+      "High": 28030,
+      "Low": 25718,
+      "Close": 26653,
+      "Index": "BSE"
+    },
+    {
+      "Period": "12/1/2016",
+      "Open": 26757,
+      "High": 26804,
+      "Low": 25754,
+      "Close": 26626,
+      "Index": "BSE"
+    },
+    {
+      "Period": "1/1/2017",
+      "Open": 26711,
+      "High": 27980,
+      "Low": 26447,
+      "Close": 27656,
+      "Index": "BSE"
+    },
+    {
+      "Period": "2/1/2017",
+      "Open": 27669,
+      "High": 29065,
+      "Low": 27590,
+      "Close": 28743,
+      "Index": "BSE"
+    },
+    {
+      "Period": "3/1/2017",
+      "Open": 28849,
+      "High": 29825,
+      "Low": 28716,
+      "Close": 29621,
+      "Index": "BSE"
+    },
+    {
+      "Period": "4/1/2017",
+      "Open": 29738,
+      "High": 30184,
+      "Low": 29241,
+      "Close": 29918,
+      "Index": "BSE"
+    },
+    {
+      "Period": "5/1/2017",
+      "Open": 30021,
+      "High": 31255,
+      "Low": 29804,
+      "Close": 31146,
+      "Index": "BSE"
+    },
+    {
+      "Period": "6/1/2017",
+      "Open": 31117,
+      "High": 31523,
+      "Low": 30681,
+      "Close": 30922,
+      "Index": "BSE"
+    },
+    {
+      "Period": "7/1/2017",
+      "Open": 31156,
+      "High": 32673,
+      "Low": 31017,
+      "Close": 32515,
+      "Index": "BSE"
+    },
+    {
+      "Period": "8/1/2017",
+      "Open": 32580,
+      "High": 32686,
+      "Low": 31128,
+      "Close": 31730,
+      "Index": "BSE"
+    },
+    {
+      "Period": "9/1/2017",
+      "Open": 31769,
+      "High": 32524,
+      "Low": 31082,
+      "Close": 31284,
+      "Index": "BSE"
+    },
+    {
+      "Period": "10/1/2017",
+      "Open": 31538,
+      "High": 33340,
+      "Low": 31440,
+      "Close": 33213,
+      "Index": "BSE"
+    },
+    {
+      "Period": "11/1/2017",
+      "Open": 33344,
+      "High": 33866,
+      "Low": 32684,
+      "Close": 33149,
+      "Index": "BSE"
+    },
+    {
+      "Period": "12/1/2017",
+      "Open": 33248,
+      "High": 34138,
+      "Low": 32565,
+      "Close": 34057,
+      "Index": "BSE"
+    },
+    {
+      "Period": "1/1/2018",
+      "Open": 34060,
+      "High": 36444,
+      "Low": 33703,
+      "Close": 35965,
+      "Index": "BSE"
+    },
+    {
+      "Period": "2/1/2018",
+      "Open": 36049,
+      "High": 36257,
+      "Low": 33483,
+      "Close": 34184,
+      "Index": "BSE"
+    },
+    {
+      "Period": "3/1/2018",
+      "Open": 34141,
+      "High": 34279,
+      "Low": 32484,
+      "Close": 32969,
+      "Index": "BSE"
+    },
+    {
+      "Period": "4/1/2018",
+      "Open": 33031,
+      "High": 35213,
+      "Low": 32973,
+      "Close": 35160,
+      "Index": "BSE"
+    },
+    {
+      "Period": "5/1/2018",
+      "Open": 35329,
+      "High": 35994,
+      "Low": 34303,
+      "Close": 35322,
+      "Index": "BSE"
+    },
+    {
+      "Period": "6/1/2018",
+      "Open": 35374,
+      "High": 35877,
+      "Low": 34785,
+      "Close": 35423,
+      "Index": "BSE"
+    },
+    {
+      "Period": "7/1/2018",
+      "Open": 35545,
+      "High": 37645,
+      "Low": 35107,
+      "Close": 37607,
+      "Index": "BSE"
+    },
+    {
+      "Period": "8/1/2018",
+      "Open": 37644,
+      "High": 38990,
+      "Low": 37129,
+      "Close": 38645,
+      "Index": "BSE"
+    },
+    {
+      "Period": "9/1/2018",
+      "Open": 38916,
+      "High": 38934,
+      "Low": 35986,
+      "Close": 36227,
+      "Index": "BSE"
+    },
+    {
+      "Period": "10/1/2018",
+      "Open": 36274,
+      "High": 36617,
+      "Low": 33292,
+      "Close": 34442,
+      "Index": "BSE"
+    },
+    {
+      "Period": "11/1/2018",
+      "Open": 34651,
+      "High": 36389,
+      "Low": 34303,
+      "Close": 36194,
+      "Index": "BSE"
+    },
+    {
+      "Period": "12/1/2018",
+      "Open": 36397,
+      "High": 36555,
+      "Low": 34426,
+      "Close": 36068,
+      "Index": "BSE"
+    },
+    {
+      "Period": "1/1/2019",
+      "Open": 36162,
+      "High": 36284,
+      "Low": 35382,
+      "Close": 36010,
+      "Index": "BSE"
+    }
+  ]
