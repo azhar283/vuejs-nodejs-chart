@@ -5,6 +5,11 @@
             <label for="bse">BSE</label>
             <input type="checkbox" id="djia" value="DJIA" v-model="selectedIndexes">
             <label for="djia">DJIA</label>
+            <select v-model="selectedDate">
+                <option v-for="timePeriod in timePeriods" v-bind:value="timePeriod.value">
+                    {{ timePeriod.text }}
+                </option>
+            </select>
             <br>
         </div>
         <chartist :data="chartComputed" :options="chartOptions" type="Line"></chartist>
@@ -28,14 +33,17 @@ export default {
                 }
             },
             chartData: {},
-            chartComputed: null
+            chartComputed: null,
+            selectedDate: null,
+            timePeriods: null
         }
     },
 
     mounted() {
         Axios.get('http://localhost:3000/api/fetchData')
         .then(response => {
-            let responseData = response.data, periods = [], sampleData, allSeries = [], series;
+            let responseData = response.data, periods = [], sampleData, allSeries = [], series,
+            timePeriods = [];
             this.seriesData = responseData;
             sampleData = responseData && responseData.bseData ? responseData.bseData : responseData.djData;
             if (!sampleData) {
@@ -43,7 +51,9 @@ export default {
             }
             sampleData.forEach((element, index) => {
                 periods.push(Moment(element.Period).format('MMM').substr(0,1));
+                timePeriods.push({value: element.Period, text: Moment(element.Period).format('MMM YYYY')})
             });
+            this.timePeriods = timePeriods;
             if (this.seriesData.bseData) {
                 series = [];
                 this.seriesData.bseData.forEach(element => {
@@ -77,19 +87,67 @@ export default {
     watch: {
         chartData: function () {
             let chartComputed = {labels: this.chartData.labels}, series = this.chartData.series,
-            filtered;
+            filtered, selectedDate = this.selectedDate;
             filtered = this.chartData.series.filter(element => {
                 return this.selectedIndexes.indexOf(element.name) > -1;
             });
+
+            console.log(filtered);
+            if (selectedDate) {
+                let tmpArr = [], filteredFinal = [];
+                filtered.forEach((indexObj) => {
+                   // console.log(indexObj);
+                    indexObj.series = indexObj.series.filter((element) => {
+                        console.log(element.period);
+                        console.log(selectedDate);
+                        return element.period > selectedDate;
+                    });
+                    
+                });
+            }
             chartComputed.series = filtered;
             this.chartComputed = chartComputed;
         },
         selectedIndexes: function () {
             let chartComputed = {labels: this.chartData.labels}, series = this.chartData.series,
-            filtered;
+            filtered, selectedDate = this.selectedDate;
             filtered = this.chartData.series.filter(element => {
                 return this.selectedIndexes.indexOf(element.name) > -1;
             });
+            if (selectedDate) {
+                let tmpArr = [], filteredFinal = [];
+                filtered.forEach((indexObj) => {
+                    console.log(indexObj);
+                    indexObj.series = indexObj.series.filter((element) => {
+                        console.log(element.period);
+                        console.log(selectedDate);
+                        return element.period > selectedDate;
+                    });
+                    
+                });
+            }
+            chartComputed.series = filtered;
+            this.chartComputed = chartComputed;
+        },
+        selectedDate: function () {
+            let chartComputed = {labels: this.chartData.labels}, series = this.chartData.series,
+            filtered, selectedDate = this.selectedDate;
+            filtered = this.chartData.series.filter(element => {
+                return this.selectedIndexes.indexOf(element.name) > -1;
+            });
+            console.log(filtered);
+            if (selectedDate) {
+                let tmpArr = [], filteredFinal = [];
+                filtered.forEach((indexObj) => {
+                   // console.log(indexObj);
+                    indexObj.series = indexObj.series.filter((element) => {
+                     //   console.log(element.period);
+                       // console.log(selectedDate);
+                        return element.period > selectedDate;
+                    });
+                    
+                });
+            }
             chartComputed.series = filtered;
             this.chartComputed = chartComputed;
         }
